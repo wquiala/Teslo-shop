@@ -17,3 +17,5 @@ docker-compose up -d
 ```
 
 6. Levantar: `yarn start:dev`
+
+7. ejecutar SEED de carga de datos localhost:3000/api/seed
